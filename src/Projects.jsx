@@ -11,8 +11,11 @@ const Projects = () => {
   <div className='p-0  md:p-10'>
 
          <div className='p-0 md:p-12'>
-             <h1 className=' text-center text-4xl font-semibold'>Projects</h1>
+              <h1 className=' text-center  mt-5  text-4xl font-semibold'>Projects</h1>
              <div className=' bg-blue-500 rounded-sm h-1 w-20 block m-auto mt-2'></div>
+
+             <p className=' text-center text-2xl p-5 font-semibold'> You can explore each project in detail by clicking on its respective project card. </p>
+
          </div>
 
          <div className='  grid  w-[100vw]  grid-cols-1 md:grid-cols-3 gap-6'>
