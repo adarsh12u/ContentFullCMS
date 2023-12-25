@@ -16,7 +16,7 @@ const Hera = () => {
    <h1 className=' text-center text-2xl font-semibold mt-3'>Innovation in JavaScript: my Project Showcase</h1>
         <p className=' text-center mt-4 mb-10'>
         
-        Welcome to our comprehensive collection of JavaScript projects! Here, you'll find a diverse array of creations that showcase our team's innovation, dedication, and passion for JavaScript. From sleek frontend applications to robust backend solutions, each project embodies our commitment to pushing the boundaries of what's possible with this versatile language. Take a tour through our repository and witness firsthand the culmination of our expertise, creativity, and love for all things JavaScript.        </p>
+        In my JavaScript project collection, there's a world of wonders made from lines of code!  interactive web apps that respond to your every click,where I've used my expertise to develop a diverse range of engaging applications, maybe fun games that transport you to new realms, or handy tools simplifying complex tasks. These projects are the products of my passion for JavaScript,  Exploring this collection reveals not just my love for coding but also my knack for problem-solving and creating fun, functional things with JavaScript.       </p>
 
            </div>
         <div className=' md:w-[50%]  mt-10   flex justify-center'>
